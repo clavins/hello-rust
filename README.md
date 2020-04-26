@@ -1,2 +1,2 @@
 # hello-rust
-Lear Rust with simple examples.
+Learn Rust with simple examples.
